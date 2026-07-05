@@ -1,5 +1,7 @@
 # ByteView
 
+[中文文档](README.zh-CN.md) | English
+
 ByteView is a small C++17 command line tool for inspecting binary files.
 
 It is not a full 010Editor replacement yet. The goal is to build a compact, hackable core: file loading, hex view, file signature detection, byte search, string extraction, and entropy analysis. Those are the building blocks behind many binary inspection workflows.
