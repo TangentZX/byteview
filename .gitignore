@@ -1,0 +1,13 @@
+build/
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.a
+*.lib
+
+.vscode/
+.idea/
+.DS_Store
